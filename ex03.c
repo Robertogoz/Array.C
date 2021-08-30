@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main(void){
+
+    int A[3], B[3];
+    int i, j;
+
+    for(i=0;i<3;i++){
+        scanf(" %d", &A[i]);
+    }
+
+    i=0;
+    for(j=0;j<3;j++){
+        B[j] = A[i]; 
+        printf("numero do Array A : %d\n", A[i]);
+        printf("numero do Array B : %d\n", B[j]);
+        i++;
+    }
+}
