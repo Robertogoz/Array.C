@@ -12,8 +12,8 @@ int main(void){
     i=0;
     for(j=0;j<3;j++){
         B[j] = A[i]; 
-        printf("numero do Array A : %d\n", A[i]);
-        printf("numero do Array B : %d\n", B[j]);
+        printf("Array A number : %d\n", A[i]);
+        printf("Array B number : %d\n", B[j]);
         i++;
     }
 }
