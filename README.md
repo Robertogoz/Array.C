@@ -16,3 +16,4 @@ Some exercises about array in C to study
 
 * Ex06: Write a program that scans an integer N that will be the array length, scans integers numbers to array A and B and do sum A^B in all N position and print it in output.
 
+* Ex08: A program that calculates an average grade(3 tests) for each student in a class.
