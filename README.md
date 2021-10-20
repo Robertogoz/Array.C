@@ -2,7 +2,7 @@
 
 Some exercises about array in C to study 
 
-### Exercises
+## Exercises
 
 * Ex01: Write a program that scans an integer N that will be the array length, scans double numbers to all array elements and print in normal and inverted order.
 
