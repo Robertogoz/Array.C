@@ -2,7 +2,7 @@
 
 A 2D array or Matrix has a type such as int[][] or String[][], with two pairs of square brackets. The elements of a 2D array are arranged in rows and columns
 
-### exercises
+### Exercises
 
 * Ex01: A program that request a matrix and realize a sum with itself.
 
